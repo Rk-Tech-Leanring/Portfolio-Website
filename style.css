@@ -1,0 +1,26 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+h1{
+    font-size: 50px;
+}
+
+.name-highlight{
+    color: orange;
+}
+
+.hero-section{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+.hero-section img{
+    width: 100%;
+}
+.hero-section button{
+    width:150px;
+    padding: 10px;
+    background: #FA6F5B;
+    color: white;
+}
